@@ -541,14 +541,14 @@
     },
     {
       "id": 50,
-      "name": "Sherwood Brogan",
-      "dealership": 34,
-      "review": "Stand-alone holistic model",
+      "name": "juliafragale",
+      "dealership": 15,
+      "review": "Good dealership",
       "purchase": false,
-      "purchase_date": "05/10/2020",
-      "car_make": "Cadillac",
-      "car_model": "DeVille",
-      "car_year": 1995
+      "purchase_date": "08/14/2025",
+      "car_make": "Audi A4",
+      "car_model": "Sedan",
+      "car_year": 2023
     }
   ]
 }
